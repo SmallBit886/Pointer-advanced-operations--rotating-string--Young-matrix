@@ -1,0 +1,3 @@
+﻿  text.c
+G:\C_Text\BIT-2-P46\BIT-2-P46\text.c(76,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  BIT-2-P46.vcxproj -> G:\C_Text\BIT-2-P46\x64\Debug\BIT-2-P46.exe
